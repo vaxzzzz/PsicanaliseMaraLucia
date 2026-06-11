@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maraluciapsicanalise.netlify.app/sitemap.xml
+Sitemap: https://psicanalisemaralucia.com.br/sitemap.xml
